@@ -1,0 +1,1 @@
+Here you can see,I solved C Intermatied programming book-02(Tamim Shariar Suben)
